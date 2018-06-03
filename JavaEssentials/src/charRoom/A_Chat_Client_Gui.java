@@ -31,6 +31,8 @@ public class A_Chat_Client_Gui {
 	public Scanner send = new Scanner(System.in);
 	PrintWriter out;
 	
+	
+	
 
 	//GUI
 	public static JFrame mainWindow = new JFrame();
