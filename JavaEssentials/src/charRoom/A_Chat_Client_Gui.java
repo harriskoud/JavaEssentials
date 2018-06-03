@@ -34,6 +34,9 @@ public class A_Chat_Client_Gui {
 	
 	
 	
+	
+	
+	
 	//GUI
 	public static JFrame mainWindow = new JFrame();
 	private static JButton b_about = new JButton();
